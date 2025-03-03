@@ -9,6 +9,6 @@ export default defineConfig({
     react()
   ],
   server: {
-    allowedHosts: ['b7c5-182-253-242-208.ngrok-free.app'],
+    allowedHosts: ['dashboard.siswayapim.com'],
   },
 })
